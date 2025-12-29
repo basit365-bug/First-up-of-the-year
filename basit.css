@@ -1,0 +1,47 @@
+body,
+html{
+    margin:  5px 5px 10px 5px;
+    width:100%;
+    height:100%;
+     font-family: "Audiowide", sans-serif;
+     font-size: 10px;
+    background: url("laptop.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    }
+    hr{
+        border: 3.0px solid;
+        border-color:rgb(19, 255, 11);
+        max-width : 70px;
+        border-radius:300px;
+    }
+    h1{ 
+        font-size: 30px;
+        color:rgb(231, 231, 231);
+        margin:  5px 5px 10px 5px;
+        text-transform: uppercase;
+    }
+    .btn-info {
+        background-color:rgb(16, 190, 10);
+        border-color:rgb(7, 128, 37);
+    }
+    .btn {
+        border-radius:340px;
+        text-transform: uppercase;
+        padding: 1rem 2rem
+    }
+    .btn-info:hover {
+        background-color: rgb(4, 80, 33);
+        border-color:rgb(248, 248, 248);
+        border-width:4px;
+    }
+    .container{
+        margin: 100px;
+        padding: 100px;
+        text-align: center;
+    }
+    .buffer{
+        height: 100px;
+    }
